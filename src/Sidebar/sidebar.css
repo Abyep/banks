@@ -1,0 +1,22 @@
+.sidebar {
+  max-width: 350px;
+  min-width: 200px;
+  width: 100%;
+  position: sticky;
+  left: 0;
+  top: 0;
+  height: 100%;
+  min-height: 100vh;
+  background: #202124;
+}
+
+.sidebar-detail {
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 550;
+  /* margin-top: 20px; */
+  padding-left: 9%;
+  border-bottom: 0.5px solid white;
+  padding-bottom: 9%;
+  background: #161b20;
+}
